@@ -1,4 +1,4 @@
-import { Button, Input } from "ui";
+import { Button, Input } from "@turbo-ui/core";
 
 export default function Web() {
   return (
