@@ -18,6 +18,9 @@
     "semantic-release": "^19.0.2",
     "turbo": "latest"
   },
+  "release": {
+    "branches": ["main", "next"]
+  },
   "turbo": {
     "pipeline": {
       "build": {
