@@ -8,7 +8,7 @@
     "@types/react": "^17.0.37",
     "@types/react-dom": "^17.0.11",
     "config": "*",
-    "@turbo-ui/tsconfig": "*",
+    "tsconfig": "*",
     "typescript": "^4.5.3"
   },
   "publishConfig": {
